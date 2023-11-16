@@ -1,0 +1,29 @@
+.about-data{
+    display: flex;
+}
+.about-data h1{
+    display: flex;
+    float: left;
+    text-align: center;
+    font-style: italic;
+    text-decoration: wavy;
+    color: brown;
+    padding: 30px;
+ 
+}
+.about-data i{
+    display: flex;
+    float: right;
+    color: rgb(232, 138, 23);
+    font-size: large;
+}
+.about-name{
+   border: 3px solid black;
+}
+.i{
+  
+  padding-top: 140px;
+  border-radius: 70%;
+ 
+  
+}
